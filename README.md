@@ -2,6 +2,10 @@
 
 Monitor companies, products and websites and emit evidence-backed pricing, hiring, product, technology, executive and expansion events.
 
+<p align="center">
+  <img src=".github/media/hero.png" alt="ChangeGraph landing page" width="100%">
+</p>
+
 **Production API:** https://changegraph-api.com
 
 [Get a free API key](https://changegraph-api.com/signup) · [Documentation](https://changegraph-api.com/docs) · [Pricing](https://changegraph-api.com/#pricing) · [Status](https://changegraph-api.com/status)
@@ -29,6 +33,13 @@ curl -X POST https://changegraph-api.com/v1/monitors \
 ```
 
 ## Endpoints
+
+<p align="center">
+  <img src=".github/media/docs.png" alt="ChangeGraph API reference, with a live playground for every endpoint" width="100%">
+</p>
+
+Every endpoint below has a runnable playground on
+[the documentation page](https://changegraph-api.com/docs).
 
 | Endpoint | Auth | Description |
 |---|---|---|
